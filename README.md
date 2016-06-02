@@ -1,2 +1,5 @@
 # hello-world
-Getting started with GitHub
+
+Hello People,
+
+DB Graphics here getting started with my first GitHub!
